@@ -1,0 +1,22 @@
+.latest-match-container {
+  background-color: #0f172a;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.match-info {
+  width: 35%;
+}
+
+.match-logo {
+  width: 120px;
+}
+
+.extra-info {
+  text-align: right;
+  width: 35%;
+}

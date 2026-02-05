@@ -1,0 +1,31 @@
+.team-link {
+  text-decoration: none;
+}
+
+.team-card {
+  background-color: #ffffff33;
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+  width: 200px;
+  height: 150px;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: 0.3s;
+}
+
+.team-card:hover {
+  background-color: #ffffff55;
+}
+
+.team-logo {
+  width: 80px;
+  height: 80px;
+}
+
+.team-name {
+  font-size: 18px;
+  text-align: center;
+}

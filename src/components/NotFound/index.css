@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #0f172a;
+  color: #ffffff;
+}
+
+.not-found-img {
+  width: 300px;
+  max-width: 80%;
+  margin-bottom: 20px;
+}
+
+.not-found-heading {
+  font-size: 28px;
+  font-family: 'Bree Serif', serif;
+}
